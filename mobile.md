@@ -1,3 +1,11 @@
+## Stock
+
+### Stock Brokerage 
+- Broker history and reputation
+- Fees
+- Pay when place a bid - brokerage charges, % of stock volume 
+- 
+
 ## Trends
 - Nov 24, sustained slowdown in demand for entry-level cars, particularly hatchbacks, those priced below Rs 10 lakh (ex-showroom), are struggling to attract buyers. 
 -  compliance has led to a roughly 40 percent increase in input costs for entry-level models, making them less accessible for first-time buyers.
